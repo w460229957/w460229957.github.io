@@ -3,7 +3,7 @@
 -
   type: github
   icon: 'fab fa-github'
-  url: https://github.com/w460229957
+  url: 'https://github.com/w460229957'
 - 
   type: twitter
   icon: 'fab fa-twitter'
@@ -11,7 +11,7 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
-  url:zhang.zhengyuan@wustl.edu
+  url: 'zhang.zhengyuan@wustl.edu'
 -
   type: rss
   icon: 'fas fa-rss'
