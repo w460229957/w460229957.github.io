@@ -1,13 +1,15 @@
 ---
-title: Operating System Project
-date: 2023-02-10 23:59:00 -0700
-categories: [项目, 操作系统内核]
-tags: [Linux操作系统项目] 
----​																						Project Proposal: 
+title: "Operating System Project"
+date: 2023-02-10 00:00:00 +0800
+categories: [project, operating-system]
+tags: [operating-system]
+---
 
-​				A Linux Kernel Sub-System for a software-implemented Remote Address Mapping and Synchronization
+
+# A Linux Kernel Sub-System for a software-implemented Remote Address Mapping and Synchronization
 
 ## Student Information and Project Proposal:
+
 **Student Name**: ZhengYuan Zhang
 
 **Proposal:** The project aims to develop a sub-system for the Linux kernel that provides a remote address mapping and synchronization mechanism. This sub-system will enable user-space programs, both locally and remotely, to share memory between different processes efficiently. It will also facilitate the synchronization of memory access between the processes, ensuring data consistency and avoiding race conditions.
