@@ -4,6 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-> Hello World!
+总体上来说，这个网站用于记录我个人在计算机科学的学习中遇到的各种问题的笔记，以及项目进程的记录。
+
+目前的详细计划是本网站会记录我关于Linux操作系统系统内核，网络编程以及C++和Java的学习笔记，并且关于硕士毕设的进度和规划也会在这个网站上留有副本，以供之后回顾和复盘。
