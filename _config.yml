@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
@@ -19,7 +19,7 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 观天者的个人笔记                          # the main title
+title: 小张的个人笔记                          # the main title
 
 tagline: 关于计算机科学学习中的知识要点的记录  # it will display as the sub-title
 
